@@ -1,0 +1,4 @@
+tint2 &
+compton -b &
+spotifyd &
+feh --bg-scale /home/matt/Pictures/wallpaper.png
